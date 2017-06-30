@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/heidsoft/work/hadoop-code/storm-demo/01-word-count/src/main'
+let g:netrw_dirhist_2='/Users/heidsoft/work/hadoop-code/storm-demo/01-word-count/src/main/java'
+let g:netrw_dirhist_3='/Users/heidsoft/work/hadoop-code/storm-demo/01-word-count/src/main/java/storm'
+let g:netrw_dirhist_4='/Users/heidsoft/work/hadoop-code/storm-demo/01-word-count'
+let g:netrw_dirhist_5='/Users/heidsoft/work/hadoop-code/storm-demo/01-word-count/src'
+let g:netrw_dirhist_6='/Users/heidsoft/work/hadoop-code/storm-demo/01-word-count/src/main'
+let g:netrw_dirhist_7='/Users/heidsoft/work/hadoop-code/storm-demo/01-word-count/src/main/java'
+let g:netrw_dirhist_8='/Users/heidsoft/work/hadoop-code/storm-demo/01-word-count/src/main/java/storm'
